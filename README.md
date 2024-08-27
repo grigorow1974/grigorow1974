@@ -5,7 +5,7 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás mis proyectos, contribucion
 ## 📝 **Acerca de mi**
 - Cientifico de Datos |  Ingeniero Comercial | Técnico en Informática | Six Sigma Black Belt
 - Actualmente trabajando como Analista de Operaciones en: ![Chubb](https://img.shields.io/badge/Chubb-004B8D?style=flat&logo=chubb&logoColor=white)
-- Conéctate conmigo en LinkedIn:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/sergio-grigorow-la-scalea-1a284133)
+- Conéctate conmigo en LinkedIn:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-grigorow-la-scalea-1a284133)
 
 
 ## 🔧 **Lenguajes y Herramientas**
